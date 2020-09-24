@@ -1,0 +1,5 @@
+﻿  SV.cpp
+c:\users\98ric\desktop\sv\sv\sv.cpp(5): warning C4005: 'WINVER': ridefinizione macro
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\sdkddkver.h(234): note: vedere la precedente definizione di 'WINVER'
+  SV.vcxproj -> C:\Users\98ric\Desktop\SV\Debug\SV.exe
+  SV.vcxproj -> C:\Users\98ric\Desktop\SV\Debug\SV.pdb (Partial PDB)
